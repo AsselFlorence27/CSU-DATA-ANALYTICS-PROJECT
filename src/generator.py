@@ -6,7 +6,7 @@ import os
 from faker import Faker
 
 class CSUDataGenerator:
-    """Modular data generator for the CSU Scholarship Project."""
+    """Modular record utility for the CSU Scholarship Project."""
     
     def __init__(self, seed=42):
         self.fake = Faker('en_PH')

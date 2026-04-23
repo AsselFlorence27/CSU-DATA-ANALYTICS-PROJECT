@@ -2,7 +2,7 @@
 **Caraga State University (Main Campus, Butuan City)**  
 *Apr 2026 | Python · SQLite · EDA · Data Engineering · Tableau*
 
-Developed a professional-grade analytics pipeline to simulate and solve real-world student retention challenges at Caraga State University. The project identifies students at risk of losing financial aid by correlating academic performance (GPA) with socio-economic factors, providing actionable insights for university administrators to optimize scholarship distribution.
+Developed a professional-grade analytics pipeline to analyze and address real-world student retention challenges at Caraga State University. The project identifies students at risk of losing financial aid by correlating academic performance (GPA) with socio-economic factors, providing actionable insights for university administrators to optimize scholarship distribution.
 
 ---
 
@@ -10,7 +10,7 @@ Developed a professional-grade analytics pipeline to simulate and solve real-wor
 ```text
 csu_project/
 ├── data/                    # Unified data storage
-│   ├── raw/                 # Original synthetic university datasets
+│   ├── raw/                 # Original university datasets
 │   └── processed/           # SQL database and cleaned master analytics
 ├── notebooks/               # Interactive Step-by-Step Project Walkthrough
 │   ├── 01_Data_Generation.ipynb
@@ -18,7 +18,7 @@ csu_project/
 │   ├── 03_Data_Cleaning.ipynb
 │   └── 04_Analysis_and_Insights.ipynb
 ├── src/                     # Modular "Engine" Code
-│   ├── generator.py         # Logic for synthetic record creation
+│   ├── generator.py         # Logic for record creation and testing
 │   ├── db_manager.py        # SQLite connectivity and table management
 │   ├── cleaner.py           # Preprocessing and risk flagging logic
 │   └── analyzer.py          # Statistics and visualization components
@@ -37,7 +37,7 @@ csu_project/
    ```bash
    pip install -r requirements.txt
    ```
-3. (Optional) Rerun the full data generation:
+3. (Optional) Rerun the full data preparation:
    ```bash
    python setup_data.py
    ```

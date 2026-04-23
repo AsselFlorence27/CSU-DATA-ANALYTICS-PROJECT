@@ -11,7 +11,7 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding='utf-8')
 
 def run_full_pipeline():
-    print("[FINAL] Starting Project Data Generation...")
+    print("[FINAL] Starting Project Data Preparation...")
     
     # 1. Generation
     print("   -> Generating raw data...")
@@ -48,7 +48,7 @@ def run_full_pipeline():
     df_final.to_csv("data/processed/csu_master_analytics.csv", index=False)
     db.load_table(df_final, "master_analytics")
     
-    print("\n[SUCCESS] All data generated and processed.")
+    print("\n[SUCCESS] All data prepared and processed.")
     print("      - Raw data: data/raw/")
     print("      - Processed results: data/processed/")
 
