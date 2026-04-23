@@ -1,0 +1,801 @@
+student_id,last_name,first_name,sex,age,college,course,year_level,scholarship_type
+CSU-2021-1000,Harris,Sarah,Female,20.0,College of Computing and Information Sciences,BS Computer Science,2,CHED UniFAST
+CSU-2021-1001,Lucas,Andre,Male,26.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2021-1002,Davis,Robert,Male,25.0,College of Computing and Information Sciences,BS Computer Science,1,LGU Sponsored
+CSU-2021-1003,White,Richard,Male,24.0,College of Arts and Sciences,BS Mathematics,3,None
+CSU-2021-1004,Harrison,Cindy,Female,22.0,College of Computing and Information Sciences,BS Computer Science,3,CHED UniFAST
+CSU-2021-1005,Johnson,Cody,Male,23.0,"College of Management, Economics, and Business",BS Business Administration,1,DOST SEI
+CSU-2021-1006,Franklin,Kristen,Female,17.0,"College of Management, Economics, and Business",BS Economics,4,LGU Sponsored
+CSU-2021-1007,Burton,Alyssa,Female,26.0,College of Education,Bachelor of Secondary Education,3,LGU Sponsored
+CSU-2021-1008,Small,Zachary,Male,21.0,College of Computing and Information Sciences,BS Computer Science,1,None
+CSU-2021-1009,Doyle,Natalie,Female,24.0,College of Computing and Information Sciences,BS Information Technology,3,CHED UniFAST
+CSU-2021-1010,Wilson,Courtney,Female,18.0,"College of Management, Economics, and Business",BS Business Administration,2,LGU Sponsored
+CSU-2021-1011,Brown,Ashley,Female,23.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2021-1012,Johnson,Jennifer,Female,17.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2021-1013,Brown,Sandra,Female,18.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2021-1014,Phillips,Rhonda,Female,20.0,College of Arts and Sciences,BA Communication,4,DOST SEI
+CSU-2021-1015,Chaney,Brooke,Female,19.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2021-1016,Porter,Monica,Female,26.0,College of Arts and Sciences,BS Mathematics,4,DOST SEI
+CSU-2021-1017,White,Lisa,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2021-1018,Ewing,Zachary,Male,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2021-1019,Gould,Heather,Female,25.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2021-1020,Campos,Ashley,Female,22.0,College of Computing and Information Sciences,BS Information Systems,1,CHED UniFAST
+CSU-2021-1021,Day,Jason,Male,21.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2021-1022,Campbell,Lisa,Female,25.0,College of Computing and Information Sciences,BS Information Systems,2,CHED UniFAST
+CSU-2021-1023,Rhodes,Scott,Male,26.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,LGU Sponsored
+CSU-2021-1024,Smith,Taylor,Female,20.0,College of Computing and Information Sciences,BS Information Technology,1,CHED UniFAST
+CSU-2021-1025,Brewer,Jose,Male,24.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2021-1026,Shelton,Eduardo,Male,24.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2021-1027,Romero,Donald,Male,25.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2021-1028,Gamble,Amanda,Female,25.0,College of Education,Bachelor of Elementary Education,4,CHED UniFAST
+CSU-2021-1029,Cohen,Diana,Female,,College of Engineering and Geosciences,BS Civil Engineering,2,LGU Sponsored
+CSU-2021-1030,Jefferson,James,Male,20.0,College of Computing and Information Sciences,BS Computer Science,1,None
+CSU-2021-1031,Herrera,Henry,Male,21.0,"College of Management, Economics, and Business",BS Business Administration,4,CHED UniFAST
+CSU-2021-1032,Neal,Stephanie,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2021-1033,Gomez,Justin,Male,23.0,College of Engineering and Geosciences,BS Civil Engineering,3,DOST SEI
+CSU-2021-1034,Moore,Victor,Male,17.0,College of Education,Bachelor of Secondary Education,4,None
+CSU-2021-1035,Johnson,William,Male,,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2021-1036,Cole,Emma,Female,20.0,College of Engineering and Geosciences,BS Electrical Engineering,1,DOST SEI
+CSU-2021-1037,Baker,Daniel,Male,25.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2021-1038,Pierce,Cassandra,Female,24.0,College of Engineering and Geosciences,BS Civil Engineering,4,CHED UniFAST
+CSU-2021-1039,Oconnor,Douglas,Male,23.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2021-1040,Benjamin,Rebecca,Female,23.0,"College of Management, Economics, and Business",BS Accountancy,4,CHED UniFAST
+CSU-2021-1041,Maynard,Darrell,Male,26.0,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2021-1042,Johnson,Amber,Female,25.0,College of Computing and Information Sciences,BS Computer Science,2,CHED UniFAST
+CSU-2021-1043,Christian,Harold,Male,18.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2021-1044,Hill,Tommy,Male,26.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2021-1045,Lee,Jeffery,Male,23.0,College of Computing and Information Sciences,BS Information Systems,3,None
+CSU-2021-1046,Waters,Debra,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,DOST SEI
+CSU-2021-1047,Stewart,Judith,Female,18.0,"College of Management, Economics, and Business",BS Accountancy,1,LGU Sponsored
+CSU-2021-1048,Gregory,Rodney,Male,25.0,College of Arts and Sciences,BS Biology,2,LGU Sponsored
+CSU-2021-1049,Perez,Jeffrey,Male,20.0,College of Engineering and Geosciences,BS Electrical Engineering,3,CHED UniFAST
+CSU-2021-1050,Mcdonald,Matthew,Male,25.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2021-1051,Anderson,Michelle,Female,18.0,College of Computing and Information Sciences,BS Computer Science,1,None
+CSU-2021-1052,Jackson,Teresa,Female,26.0,College of Engineering and Geosciences,BS Electrical Engineering,2,None
+CSU-2021-1053,Charles,Olivia,Female,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2021-1054,Vasquez,Amy,Female,21.0,College of Computing and Information Sciences,BS Computer Science,1,CHED UniFAST
+CSU-2021-1055,Rivera,Julia,Female,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,LGU Sponsored
+CSU-2021-1056,Hale,Cody,Male,18.0,College of Education,Bachelor of Secondary Education,2,LGU Sponsored
+CSU-2021-1057,Gray,Christian,Male,23.0,"College of Management, Economics, and Business",BS Economics,2,CHED UniFAST
+CSU-2021-1058,Howard,Monica,Female,20.0,"College of Management, Economics, and Business",BS Business Administration,2,None
+CSU-2021-1059,Flowers,Kimberly,Female,26.0,"College of Management, Economics, and Business",BS Economics,2,None
+CSU-2021-1060,Hunter,Robert,Male,23.0,College of Engineering and Geosciences,BS Civil Engineering,1,CHED UniFAST
+CSU-2021-1061,Howard,Kyle,Male,21.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2021-1062,Lee,Jason,Male,24.0,College of Computing and Information Sciences,BS Information Technology,2,CHED UniFAST
+CSU-2021-1063,Snow,April,Female,20.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2021-1064,Kelly,Angela,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2021-1065,Briggs,Sandra,Female,25.0,"College of Management, Economics, and Business",BS Accountancy,3,None
+CSU-2021-1066,Lee,Peter,Male,26.0,College of Computing and Information Sciences,BS Information Technology,3,CHED UniFAST
+CSU-2021-1067,Anderson,Jacqueline,Female,22.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2021-1068,Haney,Erin,Female,26.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2021-1069,Bridges,Alexander,Male,22.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2021-1070,Smith,Julie,Female,18.0,"College of Management, Economics, and Business",BS Economics,3,LGU Sponsored
+CSU-2021-1071,Allen,Danielle,Female,21.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2021-1072,Chen,Alexandra,Female,23.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2021-1073,Moore,Alexis,Female,24.0,College of Engineering and Geosciences,BS Electrical Engineering,4,DOST SEI
+CSU-2021-1074,Allison,Debra,Female,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2021-1075,Thomas,Charles,Male,20.0,College of Arts and Sciences,BS Mathematics,3,CHED UniFAST
+CSU-2021-1076,Reed,Travis,Male,17.0,College of Engineering and Geosciences,BS Civil Engineering,2,None
+CSU-2021-1077,Frazier,Deborah,Female,23.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2021-1078,Lopez,Julie,Female,20.0,College of Education,Bachelor of Elementary Education,2,None
+CSU-2021-1079,King,Taylor,Female,20.0,College of Computing and Information Sciences,BS Computer Science,2,None
+CSU-2021-1080,Mahoney,Harry,Male,25.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2021-1081,Davenport,Todd,Male,24.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2021-1082,Faulkner,Amy,Female,19.0,College of Education,Bachelor of Elementary Education,4,LGU Sponsored
+CSU-2021-1083,Brown,Cathy,Female,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2021-1084,Taylor,Michael,Male,21.0,"College of Management, Economics, and Business",BS Accountancy,2,CHED UniFAST
+CSU-2021-1085,Mcneil,Christopher,Male,19.0,"College of Management, Economics, and Business",BS Economics,2,CHED UniFAST
+CSU-2021-1086,Caldwell,Kevin,Male,,College of Engineering and Geosciences,BS Mechanical Engineering,4,DOST SEI
+CSU-2021-1087,Smith,Sarah,Female,17.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2021-1088,Murphy,Connie,Female,24.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2021-1089,Norris,Jamie,Female,25.0,"College of Management, Economics, and Business",BS Accountancy,2,LGU Sponsored
+CSU-2021-1090,Edwards,Amber,Female,17.0,"College of Management, Economics, and Business",BS Accountancy,4,DOST SEI
+CSU-2021-1091,Roberson,Megan,Female,19.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2021-1092,Hunt,Rodney,Male,18.0,College of Arts and Sciences,BA Communication,4,CHED UniFAST
+CSU-2021-1093,Stone,Matthew,Male,21.0,College of Education,Bachelor of Secondary Education,4,DOST SEI
+CSU-2021-1094,Hansen,Jennifer,Female,23.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2021-1095,Smith,Tony,Male,24.0,College of Education,Bachelor of Elementary Education,1,None
+CSU-2021-1096,Ho,Joseph,Male,18.0,College of Computing and Information Sciences,BS Information Technology,1,None
+CSU-2021-1097,Mejia,Douglas,Male,26.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2021-1098,Jennings,David,Male,24.0,College of Education,Bachelor of Secondary Education,3,None
+CSU-2021-1099,Briggs,Brett,Male,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,CHED UniFAST
+CSU-2021-1100,Davis,Tiffany,Female,23.0,College of Computing and Information Sciences,BS Information Technology,2,CHED UniFAST
+CSU-2021-1101,Williams,Brittany,Female,26.0,College of Engineering and Geosciences,BS Civil Engineering,1,None
+CSU-2021-1102,Hess,Jill,Female,25.0,College of Arts and Sciences,BS Biology,4,None
+CSU-2021-1103,Cruz,Kayla,Female,17.0,College of Computing and Information Sciences,BS Information Systems,4,None
+CSU-2021-1104,Peterson,Sharon,Female,24.0,College of Computing and Information Sciences,BS Information Technology,2,DOST SEI
+CSU-2021-1105,Thompson,Michelle,Female,26.0,College of Arts and Sciences,BA Communication,4,LGU Sponsored
+CSU-2021-1106,Mendez,Virginia,Female,20.0,College of Arts and Sciences,BS Mathematics,1,CHED UniFAST
+CSU-2021-1107,Riggs,Cynthia,Female,26.0,College of Education,Bachelor of Secondary Education,4,DOST SEI
+CSU-2021-1108,Green,Mark,Male,24.0,College of Education,Bachelor of Elementary Education,2,DOST SEI
+CSU-2021-1109,Knox,Valerie,Female,26.0,"College of Management, Economics, and Business",BS Accountancy,3,LGU Sponsored
+CSU-2021-1110,Walker,Jeffrey,Male,20.0,College of Arts and Sciences,BS Biology,4,LGU Sponsored
+CSU-2021-1111,Carey,Cynthia,Female,24.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2021-1112,Barnes,Bryan,Male,23.0,College of Computing and Information Sciences,BS Information Technology,2,DOST SEI
+CSU-2021-1113,West,Tammy,Female,25.0,College of Arts and Sciences,BS Mathematics,3,DOST SEI
+CSU-2021-1114,Watson,Melissa,Female,24.0,College of Arts and Sciences,BS Mathematics,3,DOST SEI
+CSU-2021-1115,Gonzalez,Joseph,Male,22.0,College of Engineering and Geosciences,BS Civil Engineering,1,None
+CSU-2021-1116,Russo,Paul,Male,24.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2021-1117,Small,Alisha,Female,18.0,College of Arts and Sciences,BA Communication,2,CHED UniFAST
+CSU-2021-1118,Goodman,Erin,Female,17.0,"College of Management, Economics, and Business",BS Business Administration,2,CHED UniFAST
+CSU-2021-1119,Conley,Dawn,Female,19.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2021-1120,Cox,Rachel,Female,24.0,College of Computing and Information Sciences,BS Information Systems,4,DOST SEI
+CSU-2021-1121,Douglas,Amber,Female,24.0,College of Engineering and Geosciences,BS Civil Engineering,1,None
+CSU-2021-1122,Johnson,Eugene,Male,26.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2021-1123,Allen,Corey,Male,20.0,College of Arts and Sciences,BS Mathematics,1,LGU Sponsored
+CSU-2021-1124,Newman,Laura,Female,24.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2021-1125,Johnson,Elizabeth,Female,26.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2021-1126,Swanson,Robert,Male,21.0,College of Computing and Information Sciences,BS Computer Science,1,CHED UniFAST
+CSU-2021-1127,Martin,Manuel,Male,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2021-1128,Graham,Tammy,Female,17.0,College of Arts and Sciences,BS Mathematics,2,CHED UniFAST
+CSU-2021-1129,Newton,Melissa,Female,,"College of Management, Economics, and Business",BS Economics,2,None
+CSU-2021-1130,Bowman,Ricky,Male,23.0,College of Arts and Sciences,BA Communication,1,LGU Sponsored
+CSU-2021-1131,Phillips,Parker,Male,18.0,College of Engineering and Geosciences,BS Electrical Engineering,1,CHED UniFAST
+CSU-2021-1132,Johnson,Mary,Female,24.0,"College of Management, Economics, and Business",BS Economics,1,LGU Sponsored
+CSU-2021-1133,Hawkins,Karen,Female,21.0,"College of Management, Economics, and Business",BS Economics,4,DOST SEI
+CSU-2021-1134,Hall,Sandra,Female,,College of Arts and Sciences,BS Biology,3,CHED UniFAST
+CSU-2021-1135,Pham,Dwayne,Male,21.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2021-1136,Fisher,Kathy,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,2,None
+CSU-2021-1137,Smith,Robert,Male,24.0,College of Education,Bachelor of Elementary Education,3,DOST SEI
+CSU-2021-1138,Lynch,Michael,Male,19.0,"College of Management, Economics, and Business",BS Economics,3,DOST SEI
+CSU-2021-1139,Whitney,Teresa,Female,25.0,College of Education,Bachelor of Elementary Education,1,LGU Sponsored
+CSU-2021-1140,Martinez,Theresa,Female,18.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2021-1141,Johnson,Donna,Female,23.0,College of Computing and Information Sciences,BS Information Systems,1,CHED UniFAST
+CSU-2021-1142,Carpenter,Susan,Female,24.0,"College of Management, Economics, and Business",BS Economics,1,CHED UniFAST
+CSU-2021-1143,Woods,Kelly,Female,24.0,College of Arts and Sciences,BS Biology,4,CHED UniFAST
+CSU-2021-1144,Flores,Todd,Male,21.0,College of Arts and Sciences,BS Biology,1,LGU Sponsored
+CSU-2021-1145,Gonzalez,Michael,Male,24.0,College of Computing and Information Sciences,BS Computer Science,1,None
+CSU-2021-1146,Morales,Tiffany,Female,25.0,College of Engineering and Geosciences,BS Electrical Engineering,3,DOST SEI
+CSU-2021-1147,White,Seth,Male,24.0,College of Education,Bachelor of Elementary Education,2,DOST SEI
+CSU-2021-1148,Wilson,Jamie,Male,18.0,College of Arts and Sciences,BA Communication,3,None
+CSU-2021-1149,Ellis,Tiffany,Female,17.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2021-1150,Singh,Tiffany,Female,19.0,College of Arts and Sciences,BA Communication,4,LGU Sponsored
+CSU-2021-1151,Jimenez,Pamela,Female,24.0,"College of Management, Economics, and Business",BS Accountancy,3,None
+CSU-2021-1152,Dougherty,Bonnie,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2021-1153,Hart,Colleen,Female,19.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2021-1154,Clark,Jessica,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2021-1155,Mejia,Tyler,Male,23.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2021-1156,Lee,Sarah,Female,18.0,"College of Management, Economics, and Business",BS Accountancy,3,None
+CSU-2021-1157,James,Carol,Female,24.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2021-1158,Malone,Misty,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2021-1159,Martin,Jacob,Male,24.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2021-1160,Curry,Latoya,Female,17.0,College of Computing and Information Sciences,BS Computer Science,3,DOST SEI
+CSU-2021-1161,Warren,Samuel,Male,25.0,College of Education,Bachelor of Secondary Education,4,LGU Sponsored
+CSU-2021-1162,Lynch,Charles,Male,18.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2021-1163,Wilson,Jacob,Male,20.0,College of Engineering and Geosciences,BS Electrical Engineering,4,None
+CSU-2021-1164,Singleton,Matthew,Male,24.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2021-1165,Russell,Andrea,Female,22.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2021-1166,Diaz,Andrea,Female,21.0,College of Education,Bachelor of Elementary Education,2,None
+CSU-2021-1167,Morrison,Brandon,Male,23.0,College of Education,Bachelor of Secondary Education,3,LGU Sponsored
+CSU-2021-1168,Molina,Valerie,Female,21.0,"College of Management, Economics, and Business",BS Business Administration,1,LGU Sponsored
+CSU-2021-1169,Rogers,Diana,Female,21.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2021-1170,Schneider,Jacob,Male,26.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2021-1171,Larson,Brian,Male,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,None
+CSU-2021-1172,Curry,Maria,Female,19.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2021-1173,Lewis,Kaitlyn,Female,19.0,"College of Management, Economics, and Business",BS Economics,2,CHED UniFAST
+CSU-2021-1174,Carter,Lisa,Female,,College of Arts and Sciences,BS Mathematics,3,None
+CSU-2021-1175,Winters,Katrina,Female,18.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2021-1176,Peterson,Ashley,Female,25.0,College of Engineering and Geosciences,BS Civil Engineering,3,CHED UniFAST
+CSU-2021-1177,Harvey,Erin,Female,25.0,College of Education,Bachelor of Secondary Education,1,LGU Sponsored
+CSU-2021-1178,George,Patricia,Female,22.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2021-1179,Miller,Amanda,Female,26.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2021-1180,James,Sheila,Female,18.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2021-1181,Lyons,Jennifer,Female,18.0,College of Computing and Information Sciences,BS Information Technology,1,CHED UniFAST
+CSU-2021-1182,Baker,Melissa,Female,24.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2021-1183,Moody,Juan,Male,23.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2021-1184,Burgess,Vanessa,Female,17.0,College of Arts and Sciences,BS Mathematics,3,CHED UniFAST
+CSU-2021-1185,Branch,Martha,Female,18.0,College of Education,Bachelor of Secondary Education,3,LGU Sponsored
+CSU-2021-1186,Watson,Valerie,Female,21.0,"College of Management, Economics, and Business",BS Business Administration,2,None
+CSU-2021-1187,Fitzgerald,Stephen,Male,26.0,College of Education,Bachelor of Secondary Education,1,CHED UniFAST
+CSU-2021-1188,Howard,Michael,Male,26.0,"College of Management, Economics, and Business",BS Business Administration,2,CHED UniFAST
+CSU-2021-1189,Whitaker,Alexander,Male,20.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2021-1190,Gibson,Sharon,Female,19.0,College of Arts and Sciences,BS Biology,2,LGU Sponsored
+CSU-2021-1191,Ruiz,Kenneth,Male,19.0,College of Engineering and Geosciences,BS Civil Engineering,1,DOST SEI
+CSU-2021-1192,Wilson,Abigail,Female,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,CHED UniFAST
+CSU-2021-1193,Roman,Renee,Female,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2021-1194,Boyle,Robin,Female,25.0,College of Education,Bachelor of Elementary Education,1,LGU Sponsored
+CSU-2021-1195,Morse,Joshua,Male,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,LGU Sponsored
+CSU-2021-1196,Meyers,Natalie,Female,23.0,College of Computing and Information Sciences,BS Computer Science,4,None
+CSU-2021-1197,Lester,Frank,Male,18.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2021-1198,Blanchard,Amy,Female,26.0,College of Computing and Information Sciences,BS Computer Science,3,DOST SEI
+CSU-2021-1199,Hess,Marie,Female,24.0,College of Arts and Sciences,BA Communication,4,CHED UniFAST
+CSU-2022-1200,Thompson,Larry,Male,23.0,College of Computing and Information Sciences,BS Information Systems,4,None
+CSU-2022-1201,Brown,Kendra,Female,23.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2022-1202,Sutton,Suzanne,Female,21.0,"College of Management, Economics, and Business",BS Accountancy,3,None
+CSU-2022-1203,Flores,Scott,Male,18.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2022-1204,Zuniga,Charles,Male,26.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2022-1205,Morales,Sandra,Female,17.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2022-1206,Martinez,Isaiah,Male,19.0,"College of Management, Economics, and Business",BS Business Administration,4,CHED UniFAST
+CSU-2022-1207,Stone,Kristina,Female,18.0,College of Computing and Information Sciences,BS Information Technology,3,LGU Sponsored
+CSU-2022-1208,Dunn,Christina,Female,17.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2022-1209,Williams,Nicole,Female,17.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2022-1210,Mays,Susan,Female,18.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2022-1211,Cordova,Mathew,Male,23.0,College of Computing and Information Sciences,BS Computer Science,4,LGU Sponsored
+CSU-2022-1212,Graham,Carla,Female,22.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2022-1213,Moore,Cory,Male,18.0,College of Engineering and Geosciences,BS Civil Engineering,3,DOST SEI
+CSU-2022-1214,Moore,Melissa,Female,23.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2022-1215,Long,Heather,Female,23.0,College of Arts and Sciences,BS Biology,1,CHED UniFAST
+CSU-2022-1216,Ray,Sandra,Female,17.0,College of Arts and Sciences,BS Mathematics,2,DOST SEI
+CSU-2022-1217,Jackson,Darryl,Male,20.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2022-1218,Miller,Christina,Female,22.0,College of Engineering and Geosciences,BS Electrical Engineering,1,CHED UniFAST
+CSU-2022-1219,Snyder,Geoffrey,Male,23.0,College of Education,Bachelor of Secondary Education,2,LGU Sponsored
+CSU-2022-1220,Edwards,Rita,Female,17.0,"College of Management, Economics, and Business",BS Business Administration,4,CHED UniFAST
+CSU-2022-1221,Anderson,April,Female,26.0,College of Computing and Information Sciences,BS Information Technology,4,None
+CSU-2022-1222,Buck,Ryan,Male,23.0,College of Education,Bachelor of Elementary Education,1,None
+CSU-2022-1223,George,Robyn,Female,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2022-1224,Waters,Amy,Female,26.0,College of Computing and Information Sciences,BS Computer Science,4,LGU Sponsored
+CSU-2022-1225,Williams,Taylor,Female,20.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2022-1226,Williams,Luke,Male,25.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2022-1227,Walsh,Raymond,Male,20.0,"College of Management, Economics, and Business",BS Accountancy,1,CHED UniFAST
+CSU-2022-1228,Smith,Jeffrey,Male,18.0,College of Engineering and Geosciences,BS Civil Engineering,2,None
+CSU-2022-1229,Cabrera,Robin,Female,26.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2022-1230,Chapman,Stephanie,Female,18.0,"College of Management, Economics, and Business",BS Business Administration,4,DOST SEI
+CSU-2022-1231,Mcneil,Jason,Male,22.0,"College of Management, Economics, and Business",BS Accountancy,1,DOST SEI
+CSU-2022-1232,Church,Donald,Male,22.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2022-1233,Payne,Rebecca,Female,24.0,College of Computing and Information Sciences,BS Information Systems,1,DOST SEI
+CSU-2022-1234,Graham,Joshua,Male,,College of Arts and Sciences,BA Communication,4,LGU Sponsored
+CSU-2022-1235,Juarez,Dustin,Male,22.0,College of Computing and Information Sciences,BS Information Technology,1,LGU Sponsored
+CSU-2022-1236,Wilcox,Dennis,Male,24.0,College of Engineering and Geosciences,BS Civil Engineering,4,LGU Sponsored
+CSU-2022-1237,Ramos,Alisha,Female,22.0,College of Arts and Sciences,BS Biology,3,DOST SEI
+CSU-2022-1238,Williams,Benjamin,Male,22.0,"College of Management, Economics, and Business",BS Economics,1,DOST SEI
+CSU-2022-1239,Medina,Diana,Female,21.0,College of Arts and Sciences,BA Communication,3,None
+CSU-2022-1240,Carpenter,Michelle,Female,18.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2022-1241,Barnett,Wendy,Female,19.0,"College of Management, Economics, and Business",BS Economics,1,DOST SEI
+CSU-2022-1242,Hodge,Brandon,Male,25.0,College of Education,Bachelor of Elementary Education,1,None
+CSU-2022-1243,Brown,Michael,Male,22.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2022-1244,Kemp,Cathy,Female,20.0,College of Engineering and Geosciences,BS Electrical Engineering,2,None
+CSU-2022-1245,Ramsey,Ashley,Female,18.0,College of Engineering and Geosciences,BS Civil Engineering,1,None
+CSU-2022-1246,Fowler,Gloria,Female,19.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2022-1247,Burke,Jamie,Female,17.0,College of Arts and Sciences,BS Biology,4,DOST SEI
+CSU-2022-1248,Carson,Kaitlyn,Female,24.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2022-1249,Nguyen,Michael,Male,22.0,"College of Management, Economics, and Business",BS Accountancy,4,LGU Sponsored
+CSU-2022-1250,Atkins,Ana,Female,19.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2022-1251,Garcia,David,Male,24.0,College of Engineering and Geosciences,BS Electrical Engineering,3,LGU Sponsored
+CSU-2022-1252,Baker,Joel,Male,21.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2022-1253,Murphy,Richard,Male,,"College of Management, Economics, and Business",BS Accountancy,1,None
+CSU-2022-1254,Beard,Samantha,Female,17.0,College of Engineering and Geosciences,BS Electrical Engineering,4,CHED UniFAST
+CSU-2022-1255,Mora,Alan,Male,23.0,College of Arts and Sciences,BS Mathematics,1,DOST SEI
+CSU-2022-1256,Blackwell,Michael,Male,22.0,College of Computing and Information Sciences,BS Information Technology,2,CHED UniFAST
+CSU-2022-1257,Austin,Jonathan,Male,24.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2022-1258,Ward,Maria,Female,20.0,College of Computing and Information Sciences,BS Computer Science,2,LGU Sponsored
+CSU-2022-1259,Miller,Lori,Female,18.0,College of Arts and Sciences,BA Communication,3,CHED UniFAST
+CSU-2022-1260,Fernandez,David,Male,23.0,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2022-1261,Williams,Christopher,Male,19.0,College of Education,Bachelor of Secondary Education,3,DOST SEI
+CSU-2022-1262,Brown,Brandon,Male,26.0,College of Arts and Sciences,BS Mathematics,4,CHED UniFAST
+CSU-2022-1263,Shaw,Patricia,Female,18.0,College of Computing and Information Sciences,BS Information Systems,1,DOST SEI
+CSU-2022-1264,Brown,Sherri,Female,22.0,College of Education,Bachelor of Secondary Education,3,None
+CSU-2022-1265,Jefferson,Jennifer,Female,20.0,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2022-1266,Sutton,Jeffrey,Male,22.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2022-1267,Vasquez,Nancy,Female,24.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,None
+CSU-2022-1268,Shaw,Robin,Female,17.0,College of Computing and Information Sciences,BS Information Systems,3,CHED UniFAST
+CSU-2022-1269,Bradshaw,Karen,Female,21.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2022-1270,Roberson,Tonya,Female,17.0,College of Arts and Sciences,BS Mathematics,2,CHED UniFAST
+CSU-2022-1271,King,Sydney,Female,21.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2022-1272,Matthews,Alyssa,Female,23.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2022-1273,Long,Kelly,Female,25.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2022-1274,Nichols,Nicole,Female,26.0,College of Education,Bachelor of Secondary Education,2,LGU Sponsored
+CSU-2022-1275,Johnson,Kevin,Male,22.0,"College of Management, Economics, and Business",BS Business Administration,3,DOST SEI
+CSU-2022-1276,White,Taylor,Female,19.0,College of Arts and Sciences,BA Communication,4,DOST SEI
+CSU-2022-1277,Cabrera,Deborah,Female,26.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2022-1278,Wilson,Victoria,Female,22.0,College of Computing and Information Sciences,BS Computer Science,2,None
+CSU-2022-1279,Wong,Gina,Female,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,CHED UniFAST
+CSU-2022-1280,Hardin,Lisa,Female,26.0,"College of Management, Economics, and Business",BS Accountancy,1,None
+CSU-2022-1281,Miller,Shannon,Female,24.0,College of Education,Bachelor of Elementary Education,1,LGU Sponsored
+CSU-2022-1282,Bennett,Laura,Female,22.0,College of Arts and Sciences,BS Mathematics,3,CHED UniFAST
+CSU-2022-1283,Smith,Carlos,Male,24.0,College of Computing and Information Sciences,BS Computer Science,4,None
+CSU-2022-1284,Haas,Teresa,Female,24.0,College of Computing and Information Sciences,BS Information Technology,2,None
+CSU-2022-1285,Henderson,Michele,Female,20.0,"College of Management, Economics, and Business",BS Economics,1,CHED UniFAST
+CSU-2022-1286,Cooper,Joshua,Male,24.0,College of Computing and Information Sciences,BS Information Technology,1,None
+CSU-2022-1287,Martinez,Nancy,Female,18.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2022-1288,Bruce,Christopher,Male,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,CHED UniFAST
+CSU-2022-1289,Wilson,Michael,Male,24.0,College of Engineering and Geosciences,BS Civil Engineering,1,DOST SEI
+CSU-2022-1290,Bates,Barbara,Female,,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2022-1291,Huber,Amanda,Female,23.0,College of Computing and Information Sciences,BS Computer Science,4,LGU Sponsored
+CSU-2022-1292,Poole,Cole,Male,22.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2022-1293,Frazier,Mark,Male,25.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2022-1294,Watson,Antonio,Male,18.0,College of Engineering and Geosciences,BS Electrical Engineering,2,DOST SEI
+CSU-2022-1295,Peters,Brandon,Male,22.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2022-1296,Davis,Samantha,Female,19.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2022-1297,Williams,Edward,Male,26.0,College of Computing and Information Sciences,BS Information Systems,2,CHED UniFAST
+CSU-2022-1298,Erickson,Jillian,Female,26.0,College of Arts and Sciences,BA Communication,1,None
+CSU-2022-1299,Garcia,James,Male,26.0,College of Computing and Information Sciences,BS Computer Science,3,None
+CSU-2022-1300,Ruiz,Lucas,Male,24.0,College of Arts and Sciences,BS Mathematics,3,None
+CSU-2022-1301,Mills,Alan,Male,23.0,"College of Management, Economics, and Business",BS Accountancy,3,LGU Sponsored
+CSU-2022-1302,Cox,Christina,Female,23.0,College of Computing and Information Sciences,BS Computer Science,4,LGU Sponsored
+CSU-2022-1303,Flores,Thomas,Male,22.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2022-1304,Gonzalez,Scott,Male,22.0,"College of Management, Economics, and Business",BS Accountancy,1,DOST SEI
+CSU-2022-1305,Smith,Crystal,Female,24.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2022-1306,Christensen,Jenna,Female,26.0,College of Computing and Information Sciences,BS Information Technology,4,CHED UniFAST
+CSU-2022-1307,Stewart,Catherine,Female,20.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2022-1308,Anderson,Ashley,Female,21.0,College of Arts and Sciences,BS Mathematics,4,CHED UniFAST
+CSU-2022-1309,Kaufman,Scott,Male,20.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2022-1310,Pittman,Jamie,Female,21.0,"College of Management, Economics, and Business",BS Accountancy,1,None
+CSU-2022-1311,Harris,Yesenia,Female,22.0,College of Education,Bachelor of Secondary Education,4,DOST SEI
+CSU-2022-1312,Moore,James,Male,22.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2022-1313,Welch,Nicole,Female,26.0,College of Arts and Sciences,BS Mathematics,1,CHED UniFAST
+CSU-2022-1314,Martinez,Pamela,Female,22.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2022-1315,Drake,Anita,Female,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2022-1316,Nguyen,Wendy,Female,,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2022-1317,Fitzgerald,Lindsay,Female,26.0,College of Arts and Sciences,BS Biology,3,CHED UniFAST
+CSU-2022-1318,Glenn,Leah,Female,26.0,College of Arts and Sciences,BA Communication,3,LGU Sponsored
+CSU-2022-1319,Garcia,Shannon,Female,26.0,College of Arts and Sciences,BA Communication,3,LGU Sponsored
+CSU-2022-1320,Simpson,Jade,Female,18.0,College of Computing and Information Sciences,BS Information Technology,4,LGU Sponsored
+CSU-2022-1321,Reyes,Lisa,Female,21.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2022-1322,Floyd,Alexander,Male,25.0,College of Arts and Sciences,BS Mathematics,4,CHED UniFAST
+CSU-2022-1323,Warner,Robert,Male,20.0,College of Engineering and Geosciences,BS Civil Engineering,1,DOST SEI
+CSU-2022-1324,Smith,Sara,Female,20.0,College of Education,Bachelor of Secondary Education,4,LGU Sponsored
+CSU-2022-1325,Robles,Shane,Male,19.0,College of Arts and Sciences,BS Mathematics,2,LGU Sponsored
+CSU-2022-1326,Bailey,Gabrielle,Female,19.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2022-1327,Oliver,Melissa,Female,21.0,"College of Management, Economics, and Business",BS Economics,4,CHED UniFAST
+CSU-2022-1328,Miller,Samantha,Female,20.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2022-1329,Williams,Latoya,Female,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,DOST SEI
+CSU-2022-1330,Barton,Tyler,Male,26.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2022-1331,Williams,John,Male,21.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2022-1332,Watkins,Angela,Female,21.0,College of Computing and Information Sciences,BS Information Technology,4,CHED UniFAST
+CSU-2022-1333,Gardner,Laurie,Female,,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2022-1334,Smith,Juan,Male,17.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2022-1335,Bush,Anna,Female,22.0,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2022-1336,Barrera,Gregory,Male,23.0,College of Engineering and Geosciences,BS Civil Engineering,4,LGU Sponsored
+CSU-2022-1337,Owen,Vanessa,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2022-1338,Mays,Stephen,Male,25.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2022-1339,Lambert,Troy,Male,17.0,College of Engineering and Geosciences,BS Electrical Engineering,4,None
+CSU-2022-1340,Morris,Susan,Female,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2022-1341,Hood,Barbara,Female,21.0,College of Arts and Sciences,BS Biology,4,None
+CSU-2022-1342,Davis,Christina,Female,19.0,College of Arts and Sciences,BA Communication,4,CHED UniFAST
+CSU-2022-1343,Miller,Mario,Male,24.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2022-1344,Mccarthy,Emily,Female,21.0,College of Computing and Information Sciences,BS Information Systems,2,CHED UniFAST
+CSU-2022-1345,Bowen,Laura,Female,18.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2022-1346,Schmidt,Cynthia,Female,22.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2022-1347,Novak,Jennifer,Female,21.0,College of Education,Bachelor of Secondary Education,3,DOST SEI
+CSU-2022-1348,Yang,Jillian,Female,22.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2022-1349,Clark,Cynthia,Female,19.0,College of Computing and Information Sciences,BS Information Technology,4,None
+CSU-2022-1350,Tucker,David,Male,21.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2022-1351,Ashley,Chloe,Female,19.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2022-1352,Alvarez,Jasmine,Female,25.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2022-1353,Johnson,Jose,Male,25.0,College of Engineering and Geosciences,BS Civil Engineering,4,LGU Sponsored
+CSU-2022-1354,Oneill,Gregory,Male,17.0,"College of Management, Economics, and Business",BS Business Administration,2,LGU Sponsored
+CSU-2022-1355,Miller,Kathleen,Female,25.0,College of Engineering and Geosciences,BS Civil Engineering,4,CHED UniFAST
+CSU-2022-1356,Howe,Alyssa,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2022-1357,Taylor,Betty,Female,24.0,College of Education,Bachelor of Secondary Education,1,LGU Sponsored
+CSU-2022-1358,Ramirez,Jacob,Male,23.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2022-1359,Anderson,John,Male,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,DOST SEI
+CSU-2022-1360,Diaz,Michael,Male,18.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2022-1361,Gallegos,Jesse,Male,23.0,College of Education,Bachelor of Secondary Education,3,None
+CSU-2022-1362,Grimes,Maria,Female,23.0,College of Education,Bachelor of Elementary Education,1,None
+CSU-2022-1363,Davis,Susan,Female,18.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2022-1364,Vazquez,Andrew,Male,17.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2022-1365,Medina,Donna,Female,,College of Education,Bachelor of Elementary Education,2,LGU Sponsored
+CSU-2022-1366,Brandt,Brian,Male,18.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2022-1367,Nguyen,Edward,Male,20.0,College of Education,Bachelor of Secondary Education,1,CHED UniFAST
+CSU-2022-1368,Cordova,Lawrence,Male,20.0,College of Computing and Information Sciences,BS Information Technology,1,DOST SEI
+CSU-2022-1369,Weber,Michael,Male,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,LGU Sponsored
+CSU-2022-1370,Kelley,Susan,Female,26.0,"College of Management, Economics, and Business",BS Business Administration,3,CHED UniFAST
+CSU-2022-1371,Thompson,Raymond,Male,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,CHED UniFAST
+CSU-2022-1372,Robertson,Jeffrey,Male,23.0,College of Arts and Sciences,BA Communication,4,CHED UniFAST
+CSU-2022-1373,Brown,Tracey,Female,25.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2022-1374,Shepard,Alyssa,Female,23.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2022-1375,Clayton,Charles,Male,21.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2022-1376,Gonzalez,Chelsea,Female,23.0,College of Computing and Information Sciences,BS Information Systems,2,DOST SEI
+CSU-2022-1377,Vasquez,Charlene,Female,18.0,"College of Management, Economics, and Business",BS Business Administration,4,None
+CSU-2022-1378,Gill,Terry,Male,17.0,College of Computing and Information Sciences,BS Information Systems,3,DOST SEI
+CSU-2022-1379,Vazquez,Steven,Male,18.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2022-1380,Sanders,William,Male,24.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2022-1381,Barnes,Luis,Male,20.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2022-1382,Young,Sarah,Female,20.0,College of Computing and Information Sciences,BS Information Systems,2,DOST SEI
+CSU-2022-1383,Morris,Sherry,Female,21.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,LGU Sponsored
+CSU-2022-1384,Davis,Rachel,Female,22.0,"College of Management, Economics, and Business",BS Accountancy,4,LGU Sponsored
+CSU-2022-1385,Osborne,Zachary,Male,22.0,College of Education,Bachelor of Elementary Education,3,DOST SEI
+CSU-2022-1386,Stewart,Jeffrey,Male,17.0,College of Arts and Sciences,BS Biology,3,LGU Sponsored
+CSU-2022-1387,Gardner,Amanda,Female,21.0,College of Arts and Sciences,BA Communication,2,CHED UniFAST
+CSU-2022-1388,Fields,Theodore,Male,24.0,College of Engineering and Geosciences,BS Electrical Engineering,3,CHED UniFAST
+CSU-2022-1389,Ramirez,Cynthia,Female,19.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2022-1390,Gonzales,Andrew,Male,25.0,College of Arts and Sciences,BS Mathematics,1,LGU Sponsored
+CSU-2022-1391,Fleming,Cameron,Male,17.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2022-1392,Thomas,Samuel,Male,17.0,College of Engineering and Geosciences,BS Civil Engineering,2,LGU Sponsored
+CSU-2022-1393,Collins,Ashley,Female,24.0,"College of Management, Economics, and Business",BS Business Administration,1,CHED UniFAST
+CSU-2022-1394,Delacruz,Joel,Male,17.0,College of Arts and Sciences,BS Mathematics,3,LGU Sponsored
+CSU-2022-1395,Peck,Jasmine,Female,19.0,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2022-1396,Pierce,David,Male,20.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2022-1397,Holmes,Jason,Male,22.0,"College of Management, Economics, and Business",BS Accountancy,4,LGU Sponsored
+CSU-2022-1398,Finley,Cory,Male,21.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2022-1399,Simpson,Catherine,Female,,College of Computing and Information Sciences,BS Computer Science,4,LGU Sponsored
+CSU-2023-1400,Parker,Peter,Male,19.0,College of Computing and Information Sciences,BS Information Systems,1,LGU Sponsored
+CSU-2023-1401,Mcbride,Justin,Male,25.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2023-1402,Phillips,Lisa,Female,17.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2023-1403,Hamilton,Keith,Male,19.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2023-1404,Wilson,Christopher,Male,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2023-1405,Smith,Sara,Female,25.0,College of Arts and Sciences,BS Biology,3,DOST SEI
+CSU-2023-1406,Parks,Michael,Male,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,CHED UniFAST
+CSU-2023-1407,Gordon,Mark,Male,22.0,College of Education,Bachelor of Secondary Education,4,None
+CSU-2023-1408,Dixon,Lori,Female,24.0,"College of Management, Economics, and Business",BS Business Administration,4,CHED UniFAST
+CSU-2023-1409,Clark,Michelle,Female,19.0,College of Arts and Sciences,BS Mathematics,4,CHED UniFAST
+CSU-2023-1410,Hoover,Hector,Male,18.0,College of Arts and Sciences,BS Mathematics,1,CHED UniFAST
+CSU-2023-1411,Yang,Heather,Female,22.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2023-1412,Allen,Kelly,Female,22.0,College of Computing and Information Sciences,BS Information Technology,3,CHED UniFAST
+CSU-2023-1413,Gregory,Sharon,Female,24.0,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2023-1414,Mcbride,Brian,Male,26.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2023-1415,Randall,Gabriella,Female,23.0,College of Computing and Information Sciences,BS Information Technology,1,None
+CSU-2023-1416,Kerr,Daniel,Male,23.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2023-1417,Taylor,Tracey,Female,19.0,"College of Management, Economics, and Business",BS Accountancy,1,CHED UniFAST
+CSU-2023-1418,Soto,Mary,Female,24.0,"College of Management, Economics, and Business",BS Accountancy,1,DOST SEI
+CSU-2023-1419,Flores,Melissa,Female,26.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,LGU Sponsored
+CSU-2023-1420,Harmon,Dylan,Male,23.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2023-1421,Knapp,Christine,Female,22.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2023-1422,Young,Megan,Female,22.0,College of Arts and Sciences,BS Biology,2,LGU Sponsored
+CSU-2023-1423,Garcia,Abigail,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,4,None
+CSU-2023-1424,Richardson,Brenda,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,4,DOST SEI
+CSU-2023-1425,Ochoa,Daniel,Male,25.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2023-1426,Ball,Whitney,Female,21.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2023-1427,Glenn,Gary,Male,21.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2023-1428,Collins,Mary,Female,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2023-1429,Brown,Catherine,Female,25.0,College of Arts and Sciences,BS Mathematics,4,LGU Sponsored
+CSU-2023-1430,Chung,Seth,Male,18.0,"College of Management, Economics, and Business",BS Economics,2,None
+CSU-2023-1431,Johnson,Seth,Male,26.0,"College of Management, Economics, and Business",BS Business Administration,4,None
+CSU-2023-1432,Smith,Albert,Male,17.0,"College of Management, Economics, and Business",BS Accountancy,1,CHED UniFAST
+CSU-2023-1433,Torres,Phillip,Male,24.0,College of Arts and Sciences,BA Communication,3,DOST SEI
+CSU-2023-1434,Jackson,Ruben,Male,22.0,College of Arts and Sciences,BA Communication,1,LGU Sponsored
+CSU-2023-1435,Porter,Patrick,Male,18.0,"College of Management, Economics, and Business",BS Accountancy,2,DOST SEI
+CSU-2023-1436,Jimenez,Martin,Male,25.0,"College of Management, Economics, and Business",BS Accountancy,4,DOST SEI
+CSU-2023-1437,Harrison,Catherine,Female,22.0,College of Computing and Information Sciences,BS Information Technology,1,DOST SEI
+CSU-2023-1438,Morrison,Elizabeth,Female,18.0,College of Computing and Information Sciences,BS Computer Science,2,None
+CSU-2023-1439,Meyer,Stephen,Male,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,DOST SEI
+CSU-2023-1440,Hopkins,Gary,Male,23.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2023-1441,Wright,Mark,Male,26.0,College of Education,Bachelor of Elementary Education,2,DOST SEI
+CSU-2023-1442,Gonzalez,Robert,Male,20.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2023-1443,Mcintosh,Mark,Male,25.0,College of Computing and Information Sciences,BS Information Systems,2,DOST SEI
+CSU-2023-1444,Johnson,Michael,Male,21.0,College of Engineering and Geosciences,BS Electrical Engineering,4,LGU Sponsored
+CSU-2023-1445,Griffin,Cindy,Female,26.0,"College of Management, Economics, and Business",BS Economics,4,LGU Sponsored
+CSU-2023-1446,Miller,Tammy,Female,26.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2023-1447,Flores,Scott,Male,19.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2023-1448,Stout,Jacob,Male,22.0,"College of Management, Economics, and Business",BS Business Administration,2,LGU Sponsored
+CSU-2023-1449,Ballard,Maria,Female,23.0,College of Education,Bachelor of Secondary Education,2,LGU Sponsored
+CSU-2023-1450,Robinson,Michael,Male,25.0,College of Arts and Sciences,BA Communication,2,LGU Sponsored
+CSU-2023-1451,Harris,Rebecca,Female,24.0,College of Engineering and Geosciences,BS Civil Engineering,1,None
+CSU-2023-1452,Nichols,Kevin,Male,20.0,College of Computing and Information Sciences,BS Information Technology,4,None
+CSU-2023-1453,Acosta,Virginia,Female,,College of Arts and Sciences,BA Communication,4,DOST SEI
+CSU-2023-1454,Mcfarland,Gary,Male,18.0,College of Education,Bachelor of Elementary Education,1,None
+CSU-2023-1455,Jenkins,Robert,Male,21.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2023-1456,Daniels,Maria,Female,25.0,College of Engineering and Geosciences,BS Electrical Engineering,1,LGU Sponsored
+CSU-2023-1457,Ford,Colleen,Female,25.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2023-1458,Small,Hannah,Female,18.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2023-1459,Campbell,Jill,Female,22.0,College of Computing and Information Sciences,BS Information Technology,1,DOST SEI
+CSU-2023-1460,Chang,Stephen,Male,26.0,College of Computing and Information Sciences,BS Computer Science,3,None
+CSU-2023-1461,Edwards,Crystal,Female,19.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2023-1462,Riley,Sharon,Female,25.0,College of Engineering and Geosciences,BS Civil Engineering,3,LGU Sponsored
+CSU-2023-1463,Colon,Bianca,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2023-1464,Mason,Tanner,Male,19.0,College of Arts and Sciences,BA Communication,4,None
+CSU-2023-1465,Mcdaniel,Stephen,Male,19.0,"College of Management, Economics, and Business",BS Economics,2,CHED UniFAST
+CSU-2023-1466,Hunt,Debra,Female,24.0,"College of Management, Economics, and Business",BS Business Administration,2,LGU Sponsored
+CSU-2023-1467,Best,Meghan,Female,23.0,"College of Management, Economics, and Business",BS Economics,4,CHED UniFAST
+CSU-2023-1468,Wallace,Yvette,Female,22.0,College of Computing and Information Sciences,BS Information Technology,4,None
+CSU-2023-1469,Holloway,William,Male,18.0,"College of Management, Economics, and Business",BS Economics,4,None
+CSU-2023-1470,Jones,Olivia,Female,20.0,"College of Management, Economics, and Business",BS Business Administration,4,None
+CSU-2023-1471,Richardson,Danielle,Female,21.0,College of Education,Bachelor of Elementary Education,3,LGU Sponsored
+CSU-2023-1472,Conner,Tiffany,Female,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2023-1473,Hall,Miguel,Male,19.0,College of Education,Bachelor of Secondary Education,4,LGU Sponsored
+CSU-2023-1474,Smith,Joseph,Male,21.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2023-1475,Lowe,Melanie,Female,21.0,"College of Management, Economics, and Business",BS Business Administration,1,DOST SEI
+CSU-2023-1476,Wheeler,Emily,Female,21.0,College of Engineering and Geosciences,BS Civil Engineering,2,DOST SEI
+CSU-2023-1477,Young,William,Male,17.0,College of Computing and Information Sciences,BS Information Systems,2,LGU Sponsored
+CSU-2023-1478,Novak,Corey,Male,25.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2023-1479,Pena,Kimberly,Female,19.0,"College of Management, Economics, and Business",BS Business Administration,4,CHED UniFAST
+CSU-2023-1480,Johnson,Robert,Male,18.0,College of Education,Bachelor of Secondary Education,3,DOST SEI
+CSU-2023-1481,Price,Jacqueline,Female,19.0,"College of Management, Economics, and Business",BS Business Administration,2,CHED UniFAST
+CSU-2023-1482,Ramirez,Douglas,Male,24.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2023-1483,Tapia,Jennifer,Female,20.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2023-1484,Hill,Michelle,Female,22.0,College of Engineering and Geosciences,BS Civil Engineering,4,DOST SEI
+CSU-2023-1485,Stephens,Meghan,Female,18.0,College of Engineering and Geosciences,BS Civil Engineering,2,LGU Sponsored
+CSU-2023-1486,Carlson,Ashley,Female,17.0,College of Arts and Sciences,BA Communication,3,CHED UniFAST
+CSU-2023-1487,Barnes,Anthony,Male,,College of Arts and Sciences,BA Communication,3,None
+CSU-2023-1488,Brooks,Lisa,Female,18.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2023-1489,Santos,Daniel,Male,22.0,College of Arts and Sciences,BS Biology,3,CHED UniFAST
+CSU-2023-1490,Nelson,Kelly,Female,25.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2023-1491,Miller,Kevin,Male,17.0,College of Computing and Information Sciences,BS Computer Science,3,CHED UniFAST
+CSU-2023-1492,Allen,Kathleen,Female,25.0,College of Computing and Information Sciences,BS Information Technology,4,DOST SEI
+CSU-2023-1493,Melendez,Joshua,Male,21.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2023-1494,Anderson,Ronald,Male,25.0,College of Arts and Sciences,BS Biology,3,DOST SEI
+CSU-2023-1495,Powers,Alexandra,Female,20.0,College of Computing and Information Sciences,BS Information Technology,1,CHED UniFAST
+CSU-2023-1496,Cruz,Rhonda,Female,26.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2023-1497,Mclaughlin,John,Male,19.0,College of Engineering and Geosciences,BS Civil Engineering,1,CHED UniFAST
+CSU-2023-1498,Goodman,Laurie,Female,19.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2023-1499,Garcia,John,Male,17.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2023-1500,Snyder,Brandon,Male,21.0,"College of Management, Economics, and Business",BS Economics,1,LGU Sponsored
+CSU-2023-1501,Wood,James,Male,24.0,College of Arts and Sciences,BS Mathematics,2,DOST SEI
+CSU-2023-1502,Kim,Daniel,Male,20.0,"College of Management, Economics, and Business",BS Business Administration,1,CHED UniFAST
+CSU-2023-1503,Price,Jacob,Male,24.0,College of Computing and Information Sciences,BS Computer Science,3,DOST SEI
+CSU-2023-1504,Wong,Chad,Male,25.0,College of Engineering and Geosciences,BS Civil Engineering,4,CHED UniFAST
+CSU-2023-1505,Craig,Kathy,Female,21.0,College of Engineering and Geosciences,BS Electrical Engineering,1,LGU Sponsored
+CSU-2023-1506,Davis,Daniel,Male,19.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2023-1507,Garrett,Ryan,Male,24.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2023-1508,Carroll,Tom,Male,25.0,"College of Management, Economics, and Business",BS Accountancy,4,CHED UniFAST
+CSU-2023-1509,Powell,Darlene,Female,26.0,College of Engineering and Geosciences,BS Electrical Engineering,2,LGU Sponsored
+CSU-2023-1510,Hodge,Cameron,Male,25.0,College of Arts and Sciences,BS Mathematics,2,CHED UniFAST
+CSU-2023-1511,Anderson,Michael,Male,25.0,College of Education,Bachelor of Secondary Education,3,None
+CSU-2023-1512,Smith,John,Male,23.0,College of Computing and Information Sciences,BS Information Technology,3,CHED UniFAST
+CSU-2023-1513,Haynes,Katherine,Female,24.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2023-1514,Johnson,Shelley,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2023-1515,Thornton,Jessica,Female,24.0,College of Arts and Sciences,BS Mathematics,1,LGU Sponsored
+CSU-2023-1516,Cook,Barbara,Female,18.0,College of Arts and Sciences,BS Biology,1,DOST SEI
+CSU-2023-1517,Johnson,Stephanie,Female,21.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2023-1518,Miller,Jennifer,Female,24.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2023-1519,Mills,Brian,Male,19.0,College of Engineering and Geosciences,BS Civil Engineering,1,CHED UniFAST
+CSU-2023-1520,Webb,Michaela,Female,18.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2023-1521,Rivera,Lauren,Female,24.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2023-1522,Garza,Tina,Female,26.0,College of Computing and Information Sciences,BS Computer Science,1,CHED UniFAST
+CSU-2023-1523,Brown,Willie,Male,20.0,"College of Management, Economics, and Business",BS Business Administration,3,DOST SEI
+CSU-2023-1524,Williamson,Alicia,Female,21.0,College of Computing and Information Sciences,BS Information Systems,2,CHED UniFAST
+CSU-2023-1525,Higgins,Jeremy,Male,18.0,College of Education,Bachelor of Elementary Education,4,CHED UniFAST
+CSU-2023-1526,Parker,James,Male,17.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2023-1527,Anderson,Johnathan,Male,26.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2023-1528,Brown,Jeffrey,Male,20.0,College of Computing and Information Sciences,BS Computer Science,4,None
+CSU-2023-1529,Hardy,Jeffrey,Male,17.0,College of Computing and Information Sciences,BS Information Technology,4,CHED UniFAST
+CSU-2023-1530,Sims,Deborah,Female,24.0,College of Arts and Sciences,BS Mathematics,1,DOST SEI
+CSU-2023-1531,Hickman,Tiffany,Female,20.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2023-1532,Miller,Phillip,Male,26.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2023-1533,Davis,Brianna,Female,17.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2023-1534,Bender,Jack,Male,25.0,College of Engineering and Geosciences,BS Electrical Engineering,2,None
+CSU-2023-1535,Shaw,Amber,Female,22.0,College of Arts and Sciences,BS Biology,4,LGU Sponsored
+CSU-2023-1536,Powell,Heather,Female,23.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2023-1537,Keller,Todd,Male,17.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2023-1538,Nguyen,Eric,Male,19.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2023-1539,Howard,Willie,Male,,College of Engineering and Geosciences,BS Electrical Engineering,4,DOST SEI
+CSU-2023-1540,Gordon,Jesse,Male,26.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2023-1541,Dorsey,Derek,Male,22.0,"College of Management, Economics, and Business",BS Economics,2,LGU Sponsored
+CSU-2023-1542,Johnston,Dawn,Female,19.0,College of Engineering and Geosciences,BS Electrical Engineering,4,CHED UniFAST
+CSU-2023-1543,Harris,Michael,Male,17.0,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2023-1544,Hall,John,Male,22.0,College of Arts and Sciences,BS Biology,2,None
+CSU-2023-1545,Garcia,Jacob,Male,19.0,"College of Management, Economics, and Business",BS Business Administration,2,None
+CSU-2023-1546,Ramirez,Kenneth,Male,22.0,College of Arts and Sciences,BS Mathematics,4,LGU Sponsored
+CSU-2023-1547,Wood,Dana,Female,19.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2023-1548,Reynolds,Elizabeth,Female,19.0,College of Education,Bachelor of Elementary Education,3,CHED UniFAST
+CSU-2023-1549,Black,Brianna,Female,21.0,College of Arts and Sciences,BS Biology,3,CHED UniFAST
+CSU-2023-1550,Patterson,Carol,Female,26.0,College of Computing and Information Sciences,BS Information Systems,1,CHED UniFAST
+CSU-2023-1551,Webb,Charles,Male,26.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2023-1552,Grant,Jacob,Male,20.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2023-1553,Hill,Robert,Male,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,CHED UniFAST
+CSU-2023-1554,Hart,Michael,Male,22.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2023-1555,Miller,Angela,Female,24.0,College of Computing and Information Sciences,BS Computer Science,4,None
+CSU-2023-1556,Patterson,Kelli,Female,22.0,College of Education,Bachelor of Elementary Education,4,CHED UniFAST
+CSU-2023-1557,Stout,Kenneth,Male,24.0,College of Education,Bachelor of Secondary Education,1,None
+CSU-2023-1558,Garcia,Alan,Male,22.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2023-1559,Garner,Eddie,Male,23.0,College of Computing and Information Sciences,BS Information Technology,2,None
+CSU-2023-1560,Morgan,Lisa,Female,26.0,College of Arts and Sciences,BS Biology,4,None
+CSU-2023-1561,Martinez,Jacqueline,Female,19.0,College of Education,Bachelor of Secondary Education,1,CHED UniFAST
+CSU-2023-1562,Torres,Colleen,Female,25.0,College of Engineering and Geosciences,BS Civil Engineering,3,None
+CSU-2023-1563,Larsen,Kenneth,Male,17.0,"College of Management, Economics, and Business",BS Business Administration,4,LGU Sponsored
+CSU-2023-1564,Frederick,Bobby,Male,22.0,College of Education,Bachelor of Secondary Education,1,DOST SEI
+CSU-2023-1565,Ramos,Michelle,Female,20.0,"College of Management, Economics, and Business",BS Economics,1,CHED UniFAST
+CSU-2023-1566,Harvey,Angela,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2023-1567,Gilbert,Marilyn,Female,24.0,"College of Management, Economics, and Business",BS Accountancy,3,CHED UniFAST
+CSU-2023-1568,Brooks,Guy,Male,22.0,College of Arts and Sciences,BS Mathematics,4,DOST SEI
+CSU-2023-1569,Hale,Lisa,Female,24.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2023-1570,Austin,Joseph,Male,19.0,"College of Management, Economics, and Business",BS Economics,1,CHED UniFAST
+CSU-2023-1571,Bryant,Rebecca,Female,26.0,"College of Management, Economics, and Business",BS Economics,2,LGU Sponsored
+CSU-2023-1572,Faulkner,Lauren,Female,26.0,College of Education,Bachelor of Elementary Education,2,LGU Sponsored
+CSU-2023-1573,Berry,Kyle,Male,25.0,College of Computing and Information Sciences,BS Information Technology,2,CHED UniFAST
+CSU-2023-1574,Cowan,Martin,Male,20.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2023-1575,Sanford,Betty,Female,20.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2023-1576,Dunn,Peter,Male,18.0,"College of Management, Economics, and Business",BS Accountancy,4,LGU Sponsored
+CSU-2023-1577,Johnson,Jennifer,Female,25.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2023-1578,Bradley,Patricia,Female,18.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2023-1579,Logan,Jeffrey,Male,18.0,College of Arts and Sciences,BA Communication,1,None
+CSU-2023-1580,Parker,Barbara,Female,21.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2023-1581,Graham,Olivia,Female,17.0,College of Arts and Sciences,BA Communication,2,CHED UniFAST
+CSU-2023-1582,Hines,Paige,Female,17.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2023-1583,Mcgrath,Timothy,Male,17.0,"College of Management, Economics, and Business",BS Economics,4,None
+CSU-2023-1584,Mclean,Heidi,Female,21.0,"College of Management, Economics, and Business",BS Business Administration,3,CHED UniFAST
+CSU-2023-1585,Valdez,Randy,Male,19.0,College of Education,Bachelor of Secondary Education,3,None
+CSU-2023-1586,Bird,Jeanette,Female,23.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2023-1587,Williams,Sarah,Female,25.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2023-1588,Walsh,Andrew,Male,21.0,College of Arts and Sciences,BS Biology,4,CHED UniFAST
+CSU-2023-1589,Perez,Dylan,Male,19.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2023-1590,Larson,Stephen,Male,17.0,College of Engineering and Geosciences,BS Civil Engineering,4,CHED UniFAST
+CSU-2023-1591,Rivera,Jose,Male,21.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2023-1592,Zimmerman,Bradley,Male,17.0,College of Arts and Sciences,BS Mathematics,2,DOST SEI
+CSU-2023-1593,Massey,Robert,Male,24.0,College of Arts and Sciences,BS Mathematics,3,DOST SEI
+CSU-2023-1594,Kelly,Chad,Male,21.0,"College of Management, Economics, and Business",BS Economics,1,DOST SEI
+CSU-2023-1595,Brooks,John,Male,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,None
+CSU-2023-1596,Green,Mackenzie,Female,25.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2023-1597,Vega,Ray,Male,19.0,College of Computing and Information Sciences,BS Information Technology,1,CHED UniFAST
+CSU-2023-1598,Chapman,Pamela,Female,23.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2023-1599,Phillips,James,Male,24.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2024-1600,Nelson,Victor,Male,17.0,College of Arts and Sciences,BS Mathematics,3,LGU Sponsored
+CSU-2024-1601,Sanchez,Angela,Female,21.0,College of Arts and Sciences,BA Communication,1,LGU Sponsored
+CSU-2024-1602,Carter,Jessica,Female,21.0,"College of Management, Economics, and Business",BS Accountancy,3,None
+CSU-2024-1603,Ray,James,Male,25.0,"College of Management, Economics, and Business",BS Business Administration,2,None
+CSU-2024-1604,Smith,Rachel,Female,19.0,College of Arts and Sciences,BS Mathematics,1,None
+CSU-2024-1605,Mitchell,Alyssa,Female,23.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2024-1606,Valentine,William,Male,22.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2024-1607,Juarez,Casey,Female,19.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2024-1608,Vasquez,Courtney,Female,25.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2024-1609,Brown,Mark,Male,20.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2024-1610,Marshall,Samantha,Female,22.0,"College of Management, Economics, and Business",BS Accountancy,3,LGU Sponsored
+CSU-2024-1611,Tate,Lisa,Female,17.0,College of Education,Bachelor of Secondary Education,1,LGU Sponsored
+CSU-2024-1612,Camacho,Sean,Male,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,DOST SEI
+CSU-2024-1613,Murphy,Trevor,Male,22.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2024-1614,Lawson,Kimberly,Female,19.0,College of Education,Bachelor of Secondary Education,1,LGU Sponsored
+CSU-2024-1615,Goodwin,James,Male,17.0,College of Engineering and Geosciences,BS Electrical Engineering,4,CHED UniFAST
+CSU-2024-1616,Jones,Matthew,Male,24.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2024-1617,Robertson,Elizabeth,Female,23.0,College of Education,Bachelor of Elementary Education,4,DOST SEI
+CSU-2024-1618,Gates,Tyrone,Male,22.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2024-1619,Miller,Brian,Male,17.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2024-1620,Wilson,Jesse,Male,18.0,"College of Management, Economics, and Business",BS Accountancy,4,LGU Sponsored
+CSU-2024-1621,Jones,Ronald,Male,17.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2024-1622,Smith,Janice,Female,19.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2024-1623,Collier,Gregory,Male,19.0,College of Education,Bachelor of Elementary Education,4,CHED UniFAST
+CSU-2024-1624,Griffith,Todd,Male,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,LGU Sponsored
+CSU-2024-1625,Evans,Jessica,Female,17.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2024-1626,Pham,Michael,Male,26.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2024-1627,Cherry,Ryan,Male,23.0,College of Computing and Information Sciences,BS Computer Science,4,DOST SEI
+CSU-2024-1628,Day,Elizabeth,Female,19.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2024-1629,Nguyen,Terri,Female,18.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2024-1630,Castro,Micheal,Male,25.0,College of Engineering and Geosciences,BS Electrical Engineering,1,CHED UniFAST
+CSU-2024-1631,Alexander,Thomas,Male,26.0,College of Computing and Information Sciences,BS Information Technology,2,None
+CSU-2024-1632,Mcknight,Donna,Female,23.0,College of Arts and Sciences,BS Biology,3,CHED UniFAST
+CSU-2024-1633,Mendoza,Christopher,Male,24.0,College of Arts and Sciences,BS Mathematics,3,CHED UniFAST
+CSU-2024-1634,Franco,Shawn,Male,18.0,College of Computing and Information Sciences,BS Information Systems,4,CHED UniFAST
+CSU-2024-1635,Davis,Aaron,Male,18.0,College of Computing and Information Sciences,BS Information Systems,3,None
+CSU-2024-1636,Larson,Amanda,Female,24.0,College of Education,Bachelor of Elementary Education,1,CHED UniFAST
+CSU-2024-1637,Higgins,Kimberly,Female,22.0,College of Engineering and Geosciences,BS Civil Engineering,3,DOST SEI
+CSU-2024-1638,Graves,Brett,Male,17.0,College of Computing and Information Sciences,BS Computer Science,2,None
+CSU-2024-1639,Lindsey,Rachel,Female,24.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2024-1640,Lawrence,Katie,Female,19.0,College of Computing and Information Sciences,BS Information Technology,1,DOST SEI
+CSU-2024-1641,Khan,Kari,Female,,College of Education,Bachelor of Elementary Education,4,None
+CSU-2024-1642,Ruiz,Jesus,Male,17.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2024-1643,Sullivan,Bonnie,Female,19.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2024-1644,Hill,Jimmy,Male,24.0,College of Arts and Sciences,BS Biology,4,CHED UniFAST
+CSU-2024-1645,Bailey,Jonathan,Male,18.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2024-1646,Murphy,Steven,Male,22.0,College of Computing and Information Sciences,BS Information Systems,1,DOST SEI
+CSU-2024-1647,Ball,Mary,Female,23.0,College of Engineering and Geosciences,BS Electrical Engineering,2,None
+CSU-2024-1648,West,Timothy,Male,17.0,College of Arts and Sciences,BA Communication,2,LGU Sponsored
+CSU-2024-1649,Mack,Jeffrey,Male,18.0,College of Education,Bachelor of Elementary Education,4,DOST SEI
+CSU-2024-1650,Fuller,Thomas,Male,25.0,"College of Management, Economics, and Business",BS Accountancy,2,LGU Sponsored
+CSU-2024-1651,Campbell,Joe,Male,18.0,College of Education,Bachelor of Elementary Education,4,DOST SEI
+CSU-2024-1652,Parsons,John,Male,24.0,College of Arts and Sciences,BS Mathematics,4,DOST SEI
+CSU-2024-1653,Miller,Joshua,Male,23.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2024-1654,Johnson,Benjamin,Male,26.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2024-1655,Holland,Sara,Female,22.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2024-1656,Miller,Sandra,Female,25.0,College of Engineering and Geosciences,BS Electrical Engineering,4,None
+CSU-2024-1657,Andrade,Tammy,Female,18.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2024-1658,Hernandez,Amber,Female,22.0,College of Engineering and Geosciences,BS Civil Engineering,3,LGU Sponsored
+CSU-2024-1659,Ward,Shawn,Male,17.0,"College of Management, Economics, and Business",BS Economics,2,LGU Sponsored
+CSU-2024-1660,Davis,Lisa,Female,26.0,College of Education,Bachelor of Secondary Education,2,CHED UniFAST
+CSU-2024-1661,Trevino,Maria,Female,20.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2024-1662,Adams,David,Male,24.0,College of Education,Bachelor of Secondary Education,4,None
+CSU-2024-1663,Valenzuela,Kristie,Female,17.0,College of Arts and Sciences,BS Biology,1,LGU Sponsored
+CSU-2024-1664,Humphrey,Aaron,Male,26.0,College of Education,Bachelor of Elementary Education,2,None
+CSU-2024-1665,Garcia,Amy,Female,26.0,College of Engineering and Geosciences,BS Civil Engineering,3,LGU Sponsored
+CSU-2024-1666,Reyes,Chad,Male,21.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2024-1667,Hernandez,Jeffrey,Male,19.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2024-1668,Benson,Kathleen,Female,25.0,College of Arts and Sciences,BS Mathematics,2,CHED UniFAST
+CSU-2024-1669,Smith,Sandra,Female,22.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2024-1670,Patterson,Christine,Female,,College of Engineering and Geosciences,BS Mechanical Engineering,3,LGU Sponsored
+CSU-2024-1671,Lambert,Samantha,Female,25.0,College of Arts and Sciences,BA Communication,3,None
+CSU-2024-1672,Cline,Matthew,Male,17.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2024-1673,Cox,Susan,Female,19.0,College of Computing and Information Sciences,BS Computer Science,3,None
+CSU-2024-1674,Newman,Patricia,Female,20.0,College of Engineering and Geosciences,BS Civil Engineering,1,DOST SEI
+CSU-2024-1675,Palmer,Reginald,Male,25.0,College of Education,Bachelor of Secondary Education,4,CHED UniFAST
+CSU-2024-1676,Fox,Reginald,Male,23.0,"College of Management, Economics, and Business",BS Economics,4,DOST SEI
+CSU-2024-1677,Rivas,Thomas,Male,17.0,"College of Management, Economics, and Business",BS Economics,3,CHED UniFAST
+CSU-2024-1678,Mckenzie,Carol,Female,26.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2024-1679,Mccarthy,Crystal,Female,,College of Engineering and Geosciences,BS Electrical Engineering,1,CHED UniFAST
+CSU-2024-1680,Johnson,Brent,Male,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,DOST SEI
+CSU-2024-1681,Gardner,James,Male,19.0,College of Arts and Sciences,BS Mathematics,3,CHED UniFAST
+CSU-2024-1682,Butler,Christopher,Male,19.0,College of Education,Bachelor of Secondary Education,3,LGU Sponsored
+CSU-2024-1683,Bolton,Lisa,Female,24.0,College of Arts and Sciences,BA Communication,3,CHED UniFAST
+CSU-2024-1684,Jones,William,Male,19.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2024-1685,Robertson,Amanda,Female,18.0,College of Engineering and Geosciences,BS Electrical Engineering,3,CHED UniFAST
+CSU-2024-1686,Schultz,Rachel,Female,22.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,CHED UniFAST
+CSU-2024-1687,Coleman,Pamela,Female,25.0,College of Arts and Sciences,BA Communication,1,CHED UniFAST
+CSU-2024-1688,Vargas,Anthony,Male,26.0,"College of Management, Economics, and Business",BS Accountancy,2,None
+CSU-2024-1689,Davis,David,Male,23.0,"College of Management, Economics, and Business",BS Accountancy,3,LGU Sponsored
+CSU-2024-1690,Oliver,Carrie,Female,25.0,"College of Management, Economics, and Business",BS Business Administration,4,LGU Sponsored
+CSU-2024-1691,Dean,David,Male,22.0,"College of Management, Economics, and Business",BS Economics,1,None
+CSU-2024-1692,Herrera,Christian,Male,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,None
+CSU-2024-1693,Elliott,Jennifer,Female,18.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,LGU Sponsored
+CSU-2024-1694,Smith,Jose,Male,17.0,College of Education,Bachelor of Secondary Education,4,None
+CSU-2024-1695,Miller,Michael,Male,17.0,College of Computing and Information Sciences,BS Computer Science,2,None
+CSU-2024-1696,Callahan,Tyler,Male,21.0,College of Arts and Sciences,BS Biology,4,DOST SEI
+CSU-2024-1697,Lawrence,Mary,Female,17.0,College of Education,Bachelor of Elementary Education,4,None
+CSU-2024-1698,Schultz,Brian,Male,26.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2024-1699,King,Luis,Male,21.0,College of Computing and Information Sciences,BS Information Technology,3,None
+CSU-2024-1700,Odom,Heather,Female,23.0,"College of Management, Economics, and Business",BS Accountancy,1,LGU Sponsored
+CSU-2024-1701,Garza,Jacob,Male,23.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2024-1702,Beck,Sherry,Female,17.0,College of Engineering and Geosciences,BS Electrical Engineering,2,CHED UniFAST
+CSU-2024-1703,Pierce,Debra,Female,25.0,College of Computing and Information Sciences,BS Information Systems,1,DOST SEI
+CSU-2024-1704,Reese,Julie,Female,25.0,"College of Management, Economics, and Business",BS Business Administration,2,CHED UniFAST
+CSU-2024-1705,Williams,Michelle,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2024-1706,Williams,Alisha,Female,25.0,College of Arts and Sciences,BS Biology,1,CHED UniFAST
+CSU-2024-1707,Rivera,Scott,Male,20.0,College of Computing and Information Sciences,BS Information Technology,4,None
+CSU-2024-1708,Clarke,Calvin,Male,18.0,"College of Management, Economics, and Business",BS Business Administration,3,None
+CSU-2024-1709,Simpson,Heather,Female,24.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2024-1710,Bell,Christopher,Male,26.0,"College of Management, Economics, and Business",BS Economics,3,None
+CSU-2024-1711,Monroe,Derrick,Male,22.0,College of Education,Bachelor of Secondary Education,2,None
+CSU-2024-1712,Turner,Amber,Female,19.0,College of Education,Bachelor of Elementary Education,3,None
+CSU-2024-1713,Diaz,Rita,Female,21.0,College of Education,Bachelor of Elementary Education,4,LGU Sponsored
+CSU-2024-1714,Peterson,Joseph,Male,21.0,College of Engineering and Geosciences,BS Mechanical Engineering,2,None
+CSU-2024-1715,Hoffman,Christian,Male,18.0,College of Engineering and Geosciences,BS Electrical Engineering,1,None
+CSU-2024-1716,Perez,Jessica,Female,26.0,College of Computing and Information Sciences,BS Information Systems,2,None
+CSU-2024-1717,Molina,Latoya,Female,19.0,College of Arts and Sciences,BS Mathematics,3,DOST SEI
+CSU-2024-1718,Pratt,Angela,Female,19.0,College of Arts and Sciences,BA Communication,4,LGU Sponsored
+CSU-2024-1719,Parks,Brianna,Female,25.0,College of Computing and Information Sciences,BS Information Technology,1,None
+CSU-2024-1720,West,Willie,Male,25.0,College of Arts and Sciences,BA Communication,2,DOST SEI
+CSU-2024-1721,Davis,Micheal,Male,24.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,CHED UniFAST
+CSU-2024-1722,Peters,Anthony,Male,21.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2024-1723,Martin,Shelley,Female,23.0,College of Engineering and Geosciences,BS Mechanical Engineering,4,None
+CSU-2024-1724,Mendoza,Ashley,Female,18.0,College of Computing and Information Sciences,BS Computer Science,3,None
+CSU-2024-1725,Tucker,Brian,Male,23.0,"College of Management, Economics, and Business",BS Economics,4,DOST SEI
+CSU-2024-1726,Cannon,Chloe,Female,23.0,College of Computing and Information Sciences,BS Information Systems,2,LGU Sponsored
+CSU-2024-1727,Allen,Amber,Female,24.0,"College of Management, Economics, and Business",BS Accountancy,1,LGU Sponsored
+CSU-2024-1728,Brown,Ryan,Male,20.0,College of Engineering and Geosciences,BS Electrical Engineering,1,LGU Sponsored
+CSU-2024-1729,Hall,Brian,Male,19.0,"College of Management, Economics, and Business",BS Business Administration,2,DOST SEI
+CSU-2024-1730,Martinez,Kevin,Male,23.0,College of Computing and Information Sciences,BS Information Systems,3,None
+CSU-2024-1731,French,Wendy,Female,20.0,College of Education,Bachelor of Elementary Education,2,None
+CSU-2024-1732,Lopez,Charles,Male,17.0,College of Education,Bachelor of Secondary Education,2,LGU Sponsored
+CSU-2024-1733,Scott,Justin,Male,26.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2024-1734,Ramirez,Brandy,Female,26.0,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2024-1735,Perez,Donald,Male,24.0,"College of Management, Economics, and Business",BS Business Administration,4,None
+CSU-2024-1736,Thomas,Caitlin,Female,26.0,College of Engineering and Geosciences,BS Civil Engineering,2,None
+CSU-2024-1737,Miles,Megan,Female,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,3,None
+CSU-2024-1738,Figueroa,Erik,Male,20.0,College of Arts and Sciences,BA Communication,4,DOST SEI
+CSU-2024-1739,Thompson,Nicholas,Male,25.0,College of Computing and Information Sciences,BS Computer Science,4,None
+CSU-2024-1740,Mccormick,Richard,Male,24.0,College of Arts and Sciences,BS Biology,1,None
+CSU-2024-1741,Wagner,Marcus,Male,18.0,College of Arts and Sciences,BA Communication,4,None
+CSU-2024-1742,Simon,Eric,Male,23.0,College of Arts and Sciences,BA Communication,4,DOST SEI
+CSU-2024-1743,Cox,Kathleen,Female,20.0,College of Computing and Information Sciences,BS Information Systems,4,None
+CSU-2024-1744,Powers,Scott,Male,23.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2024-1745,Davidson,Ashley,Female,26.0,College of Engineering and Geosciences,BS Civil Engineering,4,CHED UniFAST
+CSU-2024-1746,Jones,Jacob,Male,26.0,College of Computing and Information Sciences,BS Information Systems,1,LGU Sponsored
+CSU-2024-1747,Gonzalez,Lisa,Female,23.0,College of Education,Bachelor of Secondary Education,3,CHED UniFAST
+CSU-2024-1748,Williams,Dawn,Female,25.0,College of Education,Bachelor of Elementary Education,4,LGU Sponsored
+CSU-2024-1749,Blake,Holly,Female,20.0,College of Arts and Sciences,BS Mathematics,4,LGU Sponsored
+CSU-2024-1750,Green,Casey,Male,22.0,College of Arts and Sciences,BS Mathematics,4,CHED UniFAST
+CSU-2024-1751,Wiggins,Amanda,Female,23.0,"College of Management, Economics, and Business",BS Economics,2,None
+CSU-2024-1752,Baker,Paul,Male,24.0,College of Computing and Information Sciences,BS Information Systems,2,CHED UniFAST
+CSU-2024-1753,Brown,Gina,Female,25.0,College of Arts and Sciences,BS Mathematics,1,CHED UniFAST
+CSU-2024-1754,Gross,James,Male,24.0,College of Computing and Information Sciences,BS Computer Science,4,CHED UniFAST
+CSU-2024-1755,Nelson,Stephanie,Female,,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2024-1756,Hernandez,Michael,Male,19.0,College of Education,Bachelor of Elementary Education,4,DOST SEI
+CSU-2024-1757,Hampton,Brittany,Female,20.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,None
+CSU-2024-1758,Walker,Brian,Male,26.0,College of Arts and Sciences,BA Communication,2,None
+CSU-2024-1759,Brown,Jeffrey,Male,19.0,"College of Management, Economics, and Business",BS Business Administration,1,None
+CSU-2024-1760,Rocha,Tiffany,Female,23.0,College of Education,Bachelor of Elementary Education,2,LGU Sponsored
+CSU-2024-1761,Austin,Sue,Female,25.0,College of Computing and Information Sciences,BS Computer Science,3,DOST SEI
+CSU-2024-1762,Oliver,William,Male,24.0,"College of Management, Economics, and Business",BS Business Administration,4,LGU Sponsored
+CSU-2024-1763,Harris,Janet,Female,25.0,"College of Management, Economics, and Business",BS Business Administration,1,LGU Sponsored
+CSU-2024-1764,Cruz,Margaret,Female,18.0,College of Arts and Sciences,BS Mathematics,3,None
+CSU-2024-1765,Hill,Jacqueline,Female,23.0,College of Arts and Sciences,BS Mathematics,4,None
+CSU-2024-1766,White,Tina,Female,26.0,"College of Management, Economics, and Business",BS Accountancy,1,LGU Sponsored
+CSU-2024-1767,Gonzalez,Kerri,Female,20.0,"College of Management, Economics, and Business",BS Business Administration,2,None
+CSU-2024-1768,West,James,Male,21.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2024-1769,Bush,Juan,Male,25.0,College of Education,Bachelor of Elementary Education,2,LGU Sponsored
+CSU-2024-1770,Allen,Elizabeth,Female,19.0,"College of Management, Economics, and Business",BS Business Administration,2,LGU Sponsored
+CSU-2024-1771,Cox,Robert,Male,21.0,College of Engineering and Geosciences,BS Civil Engineering,2,CHED UniFAST
+CSU-2024-1772,Hamilton,Amanda,Female,19.0,College of Engineering and Geosciences,BS Mechanical Engineering,1,CHED UniFAST
+CSU-2024-1773,Ramirez,Lindsey,Female,26.0,College of Computing and Information Sciences,BS Information Systems,1,None
+CSU-2024-1774,Baker,Kristy,Female,22.0,College of Arts and Sciences,BS Biology,3,LGU Sponsored
+CSU-2024-1775,Johnson,Gina,Female,19.0,College of Arts and Sciences,BS Mathematics,3,DOST SEI
+CSU-2024-1776,Baker,Bryan,Male,25.0,College of Arts and Sciences,BS Biology,4,LGU Sponsored
+CSU-2024-1777,Vaughn,Briana,Female,23.0,College of Arts and Sciences,BS Biology,2,LGU Sponsored
+CSU-2024-1778,Jackson,Martha,Female,22.0,College of Computing and Information Sciences,BS Information Systems,1,CHED UniFAST
+CSU-2024-1779,Campbell,Robert,Male,22.0,College of Engineering and Geosciences,BS Electrical Engineering,3,None
+CSU-2024-1780,Jones,Molly,Female,20.0,"College of Management, Economics, and Business",BS Business Administration,3,LGU Sponsored
+CSU-2024-1781,Ballard,Marisa,Female,19.0,College of Arts and Sciences,BS Mathematics,4,DOST SEI
+CSU-2024-1782,Everett,Nicole,Female,23.0,College of Education,Bachelor of Elementary Education,3,LGU Sponsored
+CSU-2024-1783,Singh,Thomas,Male,18.0,College of Arts and Sciences,BS Biology,3,None
+CSU-2024-1784,Kaufman,Julie,Female,20.0,College of Arts and Sciences,BS Mathematics,2,None
+CSU-2024-1785,Miller,Jonathan,Male,19.0,College of Engineering and Geosciences,BS Electrical Engineering,4,LGU Sponsored
+CSU-2024-1786,Walker,Kimberly,Female,24.0,College of Arts and Sciences,BA Communication,3,CHED UniFAST
+CSU-2024-1787,Gates,Ashley,Female,18.0,College of Arts and Sciences,BS Biology,2,CHED UniFAST
+CSU-2024-1788,Wagner,Miguel,Male,24.0,"College of Management, Economics, and Business",BS Accountancy,3,CHED UniFAST
+CSU-2024-1789,Brooks,Julie,Female,22.0,"College of Management, Economics, and Business",BS Economics,1,DOST SEI
+CSU-2024-1790,Harding,William,Male,26.0,"College of Management, Economics, and Business",BS Economics,2,None
+CSU-2024-1791,Smith,Lisa,Female,25.0,"College of Management, Economics, and Business",BS Accountancy,4,None
+CSU-2024-1792,Torres,Diane,Female,26.0,College of Education,Bachelor of Secondary Education,3,LGU Sponsored
+CSU-2024-1793,Kelly,Dawn,Female,23.0,College of Engineering and Geosciences,BS Civil Engineering,4,None
+CSU-2024-1794,Taylor,Michael,Male,22.0,College of Computing and Information Sciences,BS Computer Science,2,DOST SEI
+CSU-2024-1795,Rivera,Melissa,Female,26.0,"College of Management, Economics, and Business",BS Economics,4,CHED UniFAST
+CSU-2024-1796,Snow,Sherry,Female,23.0,College of Education,Bachelor of Elementary Education,2,CHED UniFAST
+CSU-2024-1797,Gonzalez,Joshua,Male,21.0,College of Computing and Information Sciences,BS Computer Science,1,CHED UniFAST
+CSU-2024-1798,Stephenson,Thomas,Male,18.0,College of Education,Bachelor of Secondary Education,4,LGU Sponsored
+CSU-2024-1799,Donaldson,Edward,Male,18.0,College of Computing and Information Sciences,BS Information Technology,3,None

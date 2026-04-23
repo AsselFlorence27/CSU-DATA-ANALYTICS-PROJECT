@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+sqlite3
+nbformat
+ipykernel
+matplotlib
+seaborn
